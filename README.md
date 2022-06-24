@@ -1,5 +1,5 @@
 # MiningCooldownFix
-REQUIRES MINECRAFT 1.18.1 & FABRIC 0.12.12 OR NEWER
+help me. github is confusing
 
 By default, the Minecraft client has a hard-coded delay of 300 ms (6 ticks) between breaking blocks, unless your tools, enchantments, and potion effects are strong enough to completely bypass it, as per the following wiki article: https://minecraft.fandom.com/wiki/Breaking#Instant_breaking  
    
